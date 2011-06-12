@@ -16,7 +16,7 @@ Requires:	hfst
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-This is an Finnish morphological analyser transducer for HFST. The
+This is a Finnish morphological analyser transducer for HFST. The
 analyser comes from Omorfi project: <http://gna.org/projects/omorfi/>.
 
 %description -l pl.UTF-8
